@@ -1,7 +1,6 @@
 {
   "projects": {
-    "default": "dummy-staging",
-    "staging": "dummy-staging"
+    "emoticon": "emoticon-da5ba"
   },
   "targets": {},
   "etags": {}
