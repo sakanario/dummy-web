@@ -1,5 +1,8 @@
 {
   "projects": {
-    "default": "dummy-staging"
-  }
+    "default": "dummy-staging",
+    "staging": "dummy-staging"
+  },
+  "targets": {},
+  "etags": {}
 }
