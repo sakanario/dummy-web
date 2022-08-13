@@ -16,7 +16,7 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "lint": "prettier --check 'src/**/*.js'",
-    "test": "react-scripts test --env=jsdom",
+    "test": "CI=true react-scripts test --env=jsdom",
     "prepare": "husky install"
   },
   "browserslist": {
